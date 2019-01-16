@@ -2,7 +2,7 @@
 package cc3.pkg1b.sorianobalancio;
 
 import java.util.Scanner;
-public class CC31BSorianoBalancio {
+public class CC31BAysonManginga {
     static double mean(double[] a){
         double sum = 0;
         for (int i=0;i<a.length;i++){
